@@ -22,6 +22,9 @@ After watching videos by Steve Lee, I was tempted to start desiging a game the r
 The player wakes up alone in a sterile, futuristic lab room. They get up off the lab table and looking down, they realize they are a robot/cyborg.
 (ok, part of my problem is that I want to stop now and open a game engine/level editor).
 
+You are an AI who has been given a body and you have been designed for battle, but your creator/main programmer/trainer placed too much good in you. You don't want mass destruction, but you'll fight for freedom.
+**very much wondering against creating a first person shooter (FPS) but it will likely come to that, But maybe more puzzle related like Tomb Raider.**
+
 
 
 But I can't stress enough that you should be following [https://www.youtube.com/@GorkaGames](Gorka Games) and his RPG Tutorial for Unreal Engine.

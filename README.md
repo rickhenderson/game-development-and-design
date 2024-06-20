@@ -7,6 +7,7 @@ June 2024: Ooo and there is still a Tomb Raider level editor. Ya baby! But I rec
 
 * [Basic Game Design Document](01-design/basic-gdd.md) - in the style of [Steve Lee](https://www.youtube.com/@stevelee_gamedev)
 * [Level Design Script](01-design/level-design-script.md) - A simple level design script
+* [Modding Skyrim](modding/modding-skyrim.md) - A better way to start in game design is to make a playable level with a pre-existing game engine
 
 # References
 

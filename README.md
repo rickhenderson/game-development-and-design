@@ -1,6 +1,13 @@
 # Game Development and Design
 This repo consists of notes and ideas and maybe even lessons relating to game design and game development. First focusing on Unreal Engine 5.2 and possibly Hammer by Valve.
 
+June 2024: Ooo and there is still a Tomb Raider level editor. Ya baby! But I recommend [Tomb Engine (TEN)](https://tombengine.com/download/) as it is a more modern platform.
+
+## My Documents
+
+* [Basic Game Design Document](01-design/basic-gdd.md) - in the style of [Steve Lee](https://www.youtube.com/@stevelee_gamedev)
+* [Level Design Script](01-design/level-design-script.md) - A simple level design script
+
 # References
 
 ## Game Design and Game Dev Theory
@@ -12,7 +19,10 @@ This repo consists of notes and ideas and maybe even lessons relating to game de
 ## Game Style References and Inspiration
 
 * Skyrim
+* Minecraft
 * No Man's Sky
+* Valheim
+* Deep Rock Galactic
 * Doom
 * [Top 13 Best Parkour/Free-Running Games On Steam!](https://gamedesignskills.com/game-design/how-to-write-a-game-design-document) - Video from 2021
 * Crash Bandikoot

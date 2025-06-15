@@ -1,6 +1,6 @@
 # A Basic Game Development Document
 
-I have been watching videos by [https://www.youtube.com/@stevelee_gamedev](Steve Lee) on game level design, after spending the past few months working with Unreal Engine.
+I have been watching videos by [Steve Lee](https://www.youtube.com/@stevelee_gamedev) on game level design, after spending the past few months working with Unreal Engine.
 
 Earlier today on Discord I was asked to help a user develop a game set in 3050, and he offered to send me the GDD. I had to first figure out what that was! But this lines up perfectly with two plans I have:
 
@@ -25,6 +25,4 @@ The player wakes up alone in a sterile, futuristic lab room. They get up off the
 You are an AI who has been given a body and you have been designed for battle, but your creator/main programmer/trainer placed too much good in you. You don't want mass destruction, but you'll fight for freedom.
 **very much wondering against creating a first person shooter (FPS) but it will likely come to that, But maybe more puzzle related like Tomb Raider.**
 
-
-
-But I can't stress enough that you should be following [https://www.youtube.com/@GorkaGames](Gorka Games) and his RPG Tutorial for Unreal Engine.
+But I can't stress enough that you should be following [Gorka Games](https://www.youtube.com/@GorkaGames) and his RPG Tutorial for Unreal Engine.
